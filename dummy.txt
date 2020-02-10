@@ -1,0 +1,7 @@
+This salad contains an apple.
+This salad contains a banana.
+This salad contains a carrot.
+This salad does not contain a dragon.
+This salad contains eggs, figs, greens, and habaneros.
+I love apples.
+Apple. Apple. Apple. Apple. Apple. Apple. Apple. 
